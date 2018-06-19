@@ -1,0 +1,206 @@
+			SCANER
+
+Name:			Ansar_Scaner2
+Form/Resolution:	10:10/1200
+Price:			1000
+---------------------------------------------]
+Name:			Ansar_Scaner1
+Form/Resolution:	20:20/600
+Price:			1000
+---------------------------------------------]
+Name:			Ansar_Scaner2
+Form/Resolution:	10:10/1200
+Price:			1000
+---------------------------------------------]
+
+
+			LAPTOP
+
+Name:			Ansar_Laptop1
+Monitor:		19:9
+Width/Height:		1920/1080
+Weight/Battery:		4/9000
+Price:			1000
+---------------------------------------------]
+Name:			Ansar_Laptop2
+Monitor:		19:9
+Width/Height:		1260/720
+Weight/Battery:		3/10000
+Price:			1000
+---------------------------------------------]
+Name:			Ansar_Laptop1
+Monitor:		19:9
+Width/Height:		1920/1080
+Weight/Battery:		4/9000
+Price:			1000
+---------------------------------------------]
+Name:			Ansar_Laptop2
+Monitor:		19:9
+Width/Height:		1260/720
+Weight/Battery:		3/10000
+Price:			1000
+---------------------------------------------]
+
+
+			HARDWARE
+
+Name:			Ansar_Hardware1
+Capacity/Speed:		1000/7200
+Cache size:		32
+Price:			1000
+---------------------------------------------]
+Name:			Ansar_Hardware2
+Capacity/Speed:		2000/5600
+Cache size:		64
+Price:			1000
+---------------------------------------------]
+Name:			Ansar_Hardware1
+Capacity/Speed:		1000/7200
+Cache size:		32
+Price:			1000
+---------------------------------------------]
+Name:			Ansar_Hardware2
+Capacity/Speed:		2000/5600
+Cache size:		64
+Price:			1000
+---------------------------------------------]
+
+
+			CPU
+
+Name:			Ansar_CPU1
+Frequency/Cache:	2.57/64
+Socket/Price:		AN:17/1000
+---------------------------------------------]
+Name:			Ansar_CPU2
+Frequency/Cache:	3.41/32
+Socket/Price:		AN:17/1000
+---------------------------------------------]
+Name:			Ansar_CPU1
+Frequency/Cache:	2.57/64
+Socket/Price:		AN:17/1000
+---------------------------------------------]
+Name:			Ansar_CPU2
+Frequency/Cache:	3.41/32
+Socket/Price:		AN:17/1000
+---------------------------------------------]
+
+
+			VIDEO CARD
+
+Name:			Ansar_VideoCard1
+Frequency/Capacity:	2.57/4000
+Tire type/Price:	VN:17/1000
+---------------------------------------------]
+Name:			Ansar_VideoCard2
+Frequency/Capacity:	3.41/2000
+Tire type/Price:	VN:17/1000
+---------------------------------------------]
+Name:			Ansar_VideoCard1
+Frequency/Capacity:	2.57/4000
+Tire type/Price:	VN:17/1000
+---------------------------------------------]
+Name:			Ansar_VideoCard2
+Frequency/Capacity:	3.41/2000
+Tire type/Price:	VN:17/1000
+---------------------------------------------]
+
+
+			MOTHERBOARD
+
+Name:			Ansar_Motherboard1
+Chip/Tire:		AM-10/MN:17
+Form/Price:		10:5/1000
+---------------------------------------------]
+Name:			Ansar_Motherboard2
+Chip/Tire:		AM-15/MN:17
+Form/Price:		20:15/1000
+---------------------------------------------]
+Name:			Ansar_Motherboard1
+Chip/Tire:		AM-10/MN:17
+Form/Price:		10:5/1000
+---------------------------------------------]
+Name:			Ansar_Motherboard2
+Chip/Tire:		AM-15/MN:17
+Form/Price:		20:15/1000
+---------------------------------------------]
+
+
+			MODEM
+
+Name:			Ansar_Modem1
+Speed/Price:		1000/1000
+---------------------------------------------]
+Name:			Ansar_Modem2
+Speed/Price:		1001/1000
+---------------------------------------------]
+Name:			Ansar_Modem1
+Speed/Price:		1000/1000
+---------------------------------------------]
+Name:			Ansar_Modem2
+Speed/Price:		1001/1000
+---------------------------------------------]
+
+
+			MONITOR
+
+Name:			Ansar_Monitor1
+Resolution/Diagonal:	1920:1080/19:9
+Frequency/Price:	60/1000
+---------------------------------------------]
+Name:			Ansar_Monitor2
+Resolution/Diagonal:	1260:720/19:9
+Frequency/Price:	120/1000
+---------------------------------------------]
+Name:			Ansar_Monitor1
+Resolution/Diagonal:	1920:1080/19:9
+Frequency/Price:	60/1000
+---------------------------------------------]
+Name:			Ansar_Monitor2
+Resolution/Diagonal:	1260:720/19:9
+Frequency/Price:	120/1000
+---------------------------------------------]
+
+
+			PRINTER
+
+Name:			Ansar_Printer1
+Speed/Resource:		150/INC
+Capacity/Price:		32/1000
+---------------------------------------------]
+Name:			Ansar_Printer2
+Speed/Resource:		100/INC
+Capacity/Price:		64/1000
+---------------------------------------------]
+Name:			Ansar_Printer1
+Speed/Resource:		150/INC
+Capacity/Price:		32/1000
+---------------------------------------------]
+Name:			Ansar_Printer2
+Speed/Resource:		100/INC
+Capacity/Price:		64/1000
+---------------------------------------------]
+
+
+			OPTICAL DRIVE
+
+Name:			Ansar_OpticalDrive1
+Read/Write speed:	1000/1000
+Out or In/Connection:	Out/AN-10
+Price:			1000
+---------------------------------------------]
+Name:			Ansar_OpticalDrive2
+Read/Write speed:	1000/1000
+Out or In/Connection:	In/AN-10
+Price:			1000
+---------------------------------------------]
+Name:			Ansar_OpticalDrive1
+Read/Write speed:	1000/1000
+Out or In/Connection:	Out/AN-10
+Price:			1000
+---------------------------------------------]
+Name:			Ansar_OpticalDrive2
+Read/Write speed:	1000/1000
+Out or In/Connection:	In/AN-10
+Price:			1000
+---------------------------------------------]

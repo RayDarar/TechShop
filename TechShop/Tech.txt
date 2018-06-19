@@ -1,0 +1,30 @@
+Scaner! 2
+Ansar_Scaner1 20:20 600 1000
+Ansar_Scaner2 10:10 1200 1000
+Laptop! 2
+Ansar_Laptop1 19:9 1080 1920 4 9000 1000
+Ansar_Laptop2 19:9 720 1260 3 10000 1000
+Hardware! 2
+Ansar_Hardware1 1000 7200 32 1000
+Ansar_Hardware2 2000 5600 64 1000
+CPU! 2
+Ansar_CPU1 2.57 64 AN:17 1000
+Ansar_CPU2 3.41 32 AN:17 1000
+Video Card! 2
+Ansar_VideoCard1 2.57 4000 VN:17 1000
+Ansar_VideoCard2 3.41 2000 VN:17 1000
+Motherboard! 2
+Ansar_Motherboard1 AM-10 MN:17 10:5 1000
+Ansar_Motherboard2 AM-15 MN:17 20:15 1000
+Modem! 2
+Ansar_Modem1 1000 1000
+Ansar_Modem2 1001 1000
+Monitor! 2
+Ansar_Monitor1 1920:1080 19:9 60 1000
+Ansar_Monitor2 1260:720 19:9 120 1000
+Printer! 2 
+Ansar_Printer1 150 INC 32 1000
+Ansar_Printer2 100 INC 64 1000
+Optical Drive! 2
+Ansar_OpticalDrive1 1000 1000 1 AN-10 1000
+Ansar_OpticalDrive2 1000 1000 0 AN-10 1000
